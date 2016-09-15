@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HelloWorldTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-09-15T02:56:09" hostname="admirs-MacBook-Pro-10.local" time="0.002">
+  <properties/>
+  <testcase name="helloAnotherSampleName" classname="HelloWorldTest" time="0.001"/>
+  <testcase name="helloNoName" classname="HelloWorldTest" time="0.0"/>
+  <testcase name="helloSampleName" classname="HelloWorldTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
